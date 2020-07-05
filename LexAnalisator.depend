@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1520628860 source:c:\users\beta\onedrive\documents\codeblocks workspaces\lexanalisator\main.cpp
+	"clex.h"
+	"tts.h"
+	"tsi.h"
+	"tl.h"
+	"csynt.h"
+	<iostream>
+	<string>
+
+1520629006 c:\users\beta\onedrive\documents\codeblocks workspaces\lexanalisator\clex.h
+	<string>
+	<iostream>
+	<vector>
+	"tsi.h"
+	"tts.h"
+	"tl.h"
+
+1520628411 source:c:\users\beta\onedrive\documents\codeblocks workspaces\lexanalisator\clex.cpp
+	"clex.h"
+	<fstream>
+
+1518639516 source:c:\users\beta\onedrive\documents\codeblocks workspaces\lexanalisator\csynt.cpp
+	"csynt.h"
+
+1518207992 c:\users\beta\onedrive\documents\codeblocks workspaces\lexanalisator\csynt.h
+	"clex.h"
+
+1519418111 c:\users\beta\onedrive\documents\codeblocks workspaces\lexanalisator\tts.h
+	<vector>
+	<string>
+
+1519418214 source:c:\users\beta\onedrive\documents\codeblocks workspaces\lexanalisator\tts.cpp
+	"tts.h"
+	<fstream>
+	<iostream>
+	<iomanip>
+
+1519418310 c:\users\beta\onedrive\documents\codeblocks workspaces\lexanalisator\tsi.h
+	<string>
+	<vector>
+
+1519418498 source:c:\users\beta\onedrive\documents\codeblocks workspaces\lexanalisator\tsi.cpp
+	"tsi.h"
+	<iostream>
+	<iomanip>
+
+1520623896 source:c:\users\beta\onedrive\documents\codeblocks workspaces\lexanalisator\tl.cpp
+	"tl.h"
+	<iostream>
+	<iomanip>
+
+1520623826 c:\users\beta\onedrive\documents\codeblocks workspaces\lexanalisator\tl.h
+	<string>
+	<vector>
+
